@@ -1,2 +1,4 @@
 # apnacollege-demo
-This is my first Git Repository.author by shardha  mam.
+This is my first Git Repository. 
+<br>
+author by shardha  mam.
